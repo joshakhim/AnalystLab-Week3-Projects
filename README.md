@@ -107,6 +107,13 @@ sql-business-analysis-projects/
 ├── sales-dataset-analysis/
 └── README.md
 ```
+## Sample Query Output
+
+![Revenue Analysis](screenshots/revenue-analysis.png)
+
+## Sample Query Output
+
+![Revenue Analysis](screenshots/revenue-analysis.png)
 
 ---
 
