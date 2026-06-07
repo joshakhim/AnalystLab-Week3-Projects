@@ -113,7 +113,7 @@ sql-business-analysis-projects/
 
 ## Sample Query Output
 
-![Revenue Analysis](screenshots/revenue-analysis.png)
+![Revenue Analysis](https://github.com/joshakhim/AnalystLab-Week3-Projects/blob/main/Week_3_SQL_Project/sales-dataset-analysis/Images/Sale_Dataset_Analysis.png)
 
 ---
 
