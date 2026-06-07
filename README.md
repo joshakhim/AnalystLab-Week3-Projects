@@ -109,7 +109,7 @@ sql-business-analysis-projects/
 ```
 ## Sample Query Output
 
-![Revenue Analysis](screenshots/revenue-analysis.png)
+![Revenue Analysis](https://github.com/joshakhim/AnalystLab-Week3-Projects/blob/main/Week_3_SQL_Project/chinook-database-analysis/Images/Chinook_Database_Analysis.png)
 
 ## Sample Query Output
 
